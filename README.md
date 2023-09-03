@@ -13,13 +13,24 @@ informa se a a caractere não existe na palavra, e informa se a caractere do usu
 Exemplo:
 
 A palavra possui 4 caracteres.
+
 Digite uma palavra: maça
+
 A letra 'm' na posição 0 se encontra, porem não está na posição correta.
+
 A letra 'a' na posição 1 se encontra, porem não está na posição correta.
+
 A letra 'ç' na posição 2 não se encontra
+
 A letra 'a' na posição 3 se encontra, porem não está na posição correta.
+
 tentativas restantes: 5
+
 A palavra possui 4 caracteres.
+
 Digite uma palavra: amar
+
 Voce acertou!
+
 Palavra que foi escolhida pelo sistema: amar
+
